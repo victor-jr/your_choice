@@ -1,0 +1,61 @@
+.ui.borderless.middle-menu.menu {
+  box-shadow: none;
+  border: none;
+  margin-top: 0rem;
+}
+
+.ui.top-menu.menu {
+  box-shadow: none;
+  margin-bottom: 0rem;
+}
+
+.row.shipping {
+  padding: 0px;
+  margin: 0px;
+  background-color: #f7f7f7;
+}
+
+.nike-link {
+  text-decoration: none;
+  color: black;
+}
+
+.top {
+  position: fixed;
+  z-index: 1000;
+  width: 100%;
+}
+
+.ui.tight-info.grid {
+  position: absolute;
+  top: 0;
+  left: 0;
+  margin: 0px;
+  padding-top: 30px;
+  padding-left: 30px;
+}
+
+.two.wide.aligned.left.no-pad.column {
+  padding: 0;
+}
+
+.ui.secondary.women-button.button {
+  border-radius: 0;
+}
+.ui.centered.middle.aligned.grid {
+  padding-top: 169px;
+  margin-bottom: 1px;
+}
+
+.footer {
+  background-color: black;
+  color: white;
+}
+
+.ui.footer.container {
+  padding-top: 2rem;
+}
+
+.ui.borderless.inverted.footer-menu.menu {
+  background-color: black;
+}
